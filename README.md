@@ -9,6 +9,6 @@ git status
 
 git add -A
 
-git commit -t ""
+git commit -m ""
 
 git push origin main
