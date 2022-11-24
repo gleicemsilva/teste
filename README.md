@@ -7,7 +7,7 @@ cd
 
 git status
 
-git add -A
+git add -A ou git add .
 
 git commit -m ""
 
