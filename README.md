@@ -3,7 +3,8 @@
 git clone
 
 ls
-cd
+
+cd <pasta>
 
 git status
 
