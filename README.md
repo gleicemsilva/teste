@@ -4,7 +4,7 @@ git clone
 
 ls
 
-cd <pasta>
+cd "PASTA"
 
 git status
 
