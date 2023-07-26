@@ -6,6 +6,8 @@ ls
 
 cd PASTA
 
+faça as modificações
+
 git status
 
 git add -A ou git add .
